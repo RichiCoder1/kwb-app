@@ -1,0 +1,18 @@
+{
+  "folders": [
+    {
+      "name": "Administrative Website",
+      "path": "admin"
+    },
+    {
+      // Docs and release notes
+      "name": "KWB Api",
+      "path": "api"
+    },
+    {
+      // Yeoman extension generator
+      "name": "KWB App",
+      "path": "app"
+    }
+  ]
+}
