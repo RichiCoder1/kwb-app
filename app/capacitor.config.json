@@ -1,0 +1,7 @@
+{
+  "appId": "com.keepwacobeautiful.app",
+  "appName": "Keep Waco Beautiful",
+  "bundledWebRuntime": true,
+  "npmClient": "npm",
+  "webDir": "www"
+}
